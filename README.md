@@ -1,6 +1,6 @@
 # Listen, Attend, Spell Model for Speech Recognition & Synthesis
 
-This an individual class project implementing the [Listen, Attend, Spell](https://arxiv.org/abs/1508.01211) model for speech recognition. This machine learning model consists of an encoder, attention module, and decoder. The homework deliverables are as follows:
+This an individual class assignment implementing the [Listen, Attend, Spell](https://arxiv.org/abs/1508.01211) model for speech recognition. This machine learning model consists of an encoder, attention module, and decoder. The assignment deliverables are as follows:
 
 Implement an attention-based system to solve a sequence-to-sequence problem.
 
